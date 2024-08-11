@@ -1,0 +1,10 @@
+# Build directories
+/build
+/CMakeFiles
+/CMakeCache.txt
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
