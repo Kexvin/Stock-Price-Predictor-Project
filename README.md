@@ -23,5 +23,5 @@ Stock Predictor is a C++ project that predicts stock prices using polynomial reg
 ### Building the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-predictor.git
+   git clone https://github.com/kexvin/stock-predictor.git
    cd stock-predictor
